@@ -14,7 +14,7 @@ public class Rsc {
 		
 		System.out.println("Player : " + rsp);
 		
-		int num = (int)(Math.random()*10);
+		int num = (int)(Math.random()*10)+1;
 		
 		switch (num) {
 			case 1:
